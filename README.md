@@ -4,3 +4,5 @@ Welcome, here you will find some example of how to use and integrate Flusmic int
 
 ## Quickstart
 The most simple example of how to use Flusmic
+
+![Flusmic quickstart](https://raw.githubusercontent.com/PixelaGt/flusmic-samples/master/samples/flusmic_quickstart/images/quickstart.gif)
